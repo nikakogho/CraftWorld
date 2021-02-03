@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687706ebc4933944b830edf784ea8a61, type: 3}
+  m_Name: Colors From Light Prism
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: 5157f1bd3b4b94c4a82bba8127874721, type: 2}
+  item2: {fileID: 11400000, guid: f57162658e9db0a4481fb294a2f3cbf2, type: 2}
+  outcome: {fileID: 11400000, guid: ca37c9d8e0ebe8044b9f4448cabaf153, type: 2}
+  bonusOutcomes:
+  - {fileID: 11400000, guid: d89b61ec1d019254c96dd2df89da288e, type: 2}
+  - {fileID: 11400000, guid: a0bc41820159c0848abb27ff88baf04d, type: 2}
+  - {fileID: 11400000, guid: 3a590809253fe4b4d8391079dce7d1c6, type: 2}
+  - {fileID: 11400000, guid: 340e743aed76a6145843be23218b2fb8, type: 2}
+  - {fileID: 11400000, guid: 9c1166f9760b751499c900bc226b3512, type: 2}
+  - {fileID: 11400000, guid: 0ed57ebc465e287468ac78fbca44c9f4, type: 2}

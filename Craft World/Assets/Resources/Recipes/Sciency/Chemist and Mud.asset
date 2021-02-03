@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687706ebc4933944b830edf784ea8a61, type: 3}
+  m_Name: Chemist and Mud
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: dc6c5de51a5a2da47a0fb7b6ce79bd82, type: 2}
+  item2: {fileID: 11400000, guid: 9e0c0219ef45b0241b39b84260dbbfbb, type: 2}
+  outcome: {fileID: 11400000, guid: 9c9d06a9308149d4d94a3118e9db5476, type: 2}
+  bonusOutcomes: []
+  possibleOutcomes: []

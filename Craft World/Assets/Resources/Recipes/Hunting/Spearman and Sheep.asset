@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687706ebc4933944b830edf784ea8a61, type: 3}
+  m_Name: Spearman and Sheep
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: 289c822305d9f7d43a546fce7d374b0e, type: 2}
+  item2: {fileID: 11400000, guid: f2b3ad2605e2f6d45bb1a85b81b85176, type: 2}
+  outcome: {fileID: 11400000, guid: c11e9a73c16e3b649979b93cf4672db3, type: 2}
+  bonusOutcomes: []
+  possibleOutcomes: []

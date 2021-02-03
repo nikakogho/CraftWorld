@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687706ebc4933944b830edf784ea8a61, type: 3}
+  m_Name: Fire Dragon Opposite
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: e40483f331cc5d14faa52ccac39a8b90, type: 2}
+  item2: {fileID: 11400000, guid: 2c77b6e9b4de8794faf61f5085aa34ea, type: 2}
+  outcome: {fileID: 11400000, guid: 237267fd8d2079046af46ae817bc6a56, type: 2}
+  bonusOutcomes: []
+  possibleOutcomes: []

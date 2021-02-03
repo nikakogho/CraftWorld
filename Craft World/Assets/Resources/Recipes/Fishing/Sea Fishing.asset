@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687706ebc4933944b830edf784ea8a61, type: 3}
+  m_Name: Sea Fishing
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: aeac9e13e65f400489c216314f6fd015, type: 2}
+  item2: {fileID: 11400000, guid: e76b5dec86894fe4bb5815d919e553e1, type: 2}
+  outcome: {fileID: 11400000, guid: a4d9066c6e125d84bb4cf276954530a9, type: 2}
+  bonusOutcomes: []
+  possibleOutcomes:
+  - item: {fileID: 11400000, guid: 7e1e79e0cac070c4baebdbf151a7b5df, type: 2}
+    chance: 0.377
+  - item: {fileID: 11400000, guid: b38c6379abe3d80458d376c4d94dfbf2, type: 2}
+    chance: 0.053

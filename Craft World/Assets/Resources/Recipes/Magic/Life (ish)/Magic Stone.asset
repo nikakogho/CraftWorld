@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687706ebc4933944b830edf784ea8a61, type: 3}
+  m_Name: Magic Stone
+  m_EditorClassIdentifier: 
+  item1: {fileID: 11400000, guid: 45ae5c52cd372224b9a5232fba3573d6, type: 2}
+  item2: {fileID: 11400000, guid: 2deec6c0df45c644d8de5398de8b50ad, type: 2}
+  outcome: {fileID: 11400000, guid: 84515ee9da382394f9f4469bd357d7da, type: 2}
+  bonusOutcomes: []
